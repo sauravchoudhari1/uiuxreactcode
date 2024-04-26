@@ -1,0 +1,14 @@
+.stackstyle{
+    height: 100%;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    background: #010116;
+background: -webkit-linear-gradient(0deg, #010116 0%, #251c1c 50%, #49484b 100%);
+background: linear-gradient(0deg, #010116 0%, #251c1c 50%, #49484b 100%);
+    
+}
+
+.iconcolor{
+    color: white;
+}

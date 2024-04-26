@@ -1,0 +1,19 @@
+.buttoncolor{
+    color: black;
+    border-color: #9e9e9e;
+    
+}
+.buttoncolorreset{
+    color: black;
+    
+}
+
+.addbutton{
+    color: white;
+    background-color: #d78509;
+}
+
+.filterbutton{
+    color: #d78509;
+    border-color: #d78509;
+}
